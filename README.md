@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Shashwat</h1>
+<h3 align="center">A passionate developer from India</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shashtag" alt="gargakshit" /> </p>
 
-<!--
-**shashtag/shashtag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **some side projects :P**
 
-Here are some ideas to get you started:
+- 👯 I’m looking to collaborate on **anything free and open source**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 All of my projects are available at [https://github.com/shashtag](https://github.com/shashtag)
+
+- 💬 Ask me about **React, Next.js, C++ and Java**
+
+- 📫 How to reach me **shashwatsatna@gmail.com**
+
+- ⚡ Fun fact **Trial and error is the way you go and dogs 🐶**
+
+
+
+<p align="center">
+<a href="https://dev.to/shashtag" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="shashwat gupta" height="20" width="20" /></a>
+<a href="https://codesandbox.com/shashtag" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="shashwat gupta" height="20" width="20" /></a>
+
+_Live and let Live 🎯 _
