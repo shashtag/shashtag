@@ -18,6 +18,7 @@
 
 <p align="center">
 ![Shashwat's github stats](https://github-readme-stats.vercel.app/api?username=shashtag&show_icons=true&hide_border=true&theme=light)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashtag&layout=compact&theme=dark)](https://github.com/shashtag/github-readme-stats)
 
 
 _Live and let Live 🎯 _
