@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Shashwat</h1>
 <h3 align="center">A passionate developer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shashtag" alt="gargakshit" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shashtag" alt="shashwat gupta" /> </p>
 
 - 🔭 I’m currently working on **some side projects :P**
 
