@@ -19,6 +19,9 @@
 <p align="center">
 ![Shashwat's github stats](https://github-readme-stats.vercel.app/api?username=shashtag&show_icons=true&hide_border=true&theme=light)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashtag&layout=compact&theme=dark)](https://github.com/shashtag/github-readme-stats)
+  
+  <img  height="auto" src="https://github-readme-stats.vercel.app/api?username=shashtag&show_icons=true&hide_border=true&theme=light" alt="" />
 
+<img  height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashtag&layout=compact&theme=dark" alt="" />
 
 _Live and let Live 🎯 _
