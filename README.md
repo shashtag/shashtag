@@ -14,7 +14,7 @@
 
 # Hi There!
 
-I am a passionate self-taught Fullstack/Frontend web developer and a freelance software engineer from India. As an innocent child I wanted to make my own social media like Facebook which directed me to learn HTML, CSS and basic JS. I also wanted to make robots which lead me to learn basic C++.
+I am a passionate Fullstack/Frontend web developer and a freelance software engineer from India. As an innocent child I wanted to make my own social media like Facebook which directed me to learn HTML, CSS and basic JS. I also wanted to make robots which lead me to learn basic C++.
 
 I learnt DSA in C++ properly in my 11th/12th grade and JS and React.js in my university first year from when I started working on project with organizations and also started freelancing.
 
