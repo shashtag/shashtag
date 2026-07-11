@@ -138,7 +138,7 @@ function getCell(board, idx) {
   // link to play this space
   const title = encodeURIComponent(`ttt|play|${idx}`);
   const body = encodeURIComponent(`Playing square ${idx + 1}. Please submit this issue to register your move.`);
-  return `[🟦](https://github.com/shashtag/shashtag/issues/new?title=${title}&body=${body})`;
+  return `<a href="https://github.com/shashtag/shashtag/issues/new?title=${title}&body=${body}">🟦</a>`;
 }
 
 // Update the README file

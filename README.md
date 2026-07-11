@@ -183,19 +183,19 @@ Click any blue square below to make your move! It will open a pre-filled GitHub 
 
 <table align="center">
   <tr>
-    <td align="center" width="60" height="60">[🟦](https://github.com/shashtag/shashtag/issues/new?title=ttt%7Cplay%7C0&body=Playing%20square%201.%20Please%20submit%20this%20issue%20to%20register%20your%20move.)</td>
-    <td align="center" width="60" height="60">[🟦](https://github.com/shashtag/shashtag/issues/new?title=ttt%7Cplay%7C1&body=Playing%20square%202.%20Please%20submit%20this%20issue%20to%20register%20your%20move.)</td>
-    <td align="center" width="60" height="60">[🟦](https://github.com/shashtag/shashtag/issues/new?title=ttt%7Cplay%7C2&body=Playing%20square%203.%20Please%20submit%20this%20issue%20to%20register%20your%20move.)</td>
+    <td align="center" width="60" height="60"><a href="https://github.com/shashtag/shashtag/issues/new?title=ttt%7Cplay%7C0&body=Playing%20square%201.%20Please%20submit%20this%20issue%20to%20register%20your%20move.">🟦</a></td>
+    <td align="center" width="60" height="60"><a href="https://github.com/shashtag/shashtag/issues/new?title=ttt%7Cplay%7C1&body=Playing%20square%202.%20Please%20submit%20this%20issue%20to%20register%20your%20move.">🟦</a></td>
+    <td align="center" width="60" height="60"><a href="https://github.com/shashtag/shashtag/issues/new?title=ttt%7Cplay%7C2&body=Playing%20square%203.%20Please%20submit%20this%20issue%20to%20register%20your%20move.">🟦</a></td>
   </tr>
   <tr>
-    <td align="center" width="60" height="60">[🟦](https://github.com/shashtag/shashtag/issues/new?title=ttt%7Cplay%7C3&body=Playing%20square%204.%20Please%20submit%20this%20issue%20to%20register%20your%20move.)</td>
-    <td align="center" width="60" height="60">[🟦](https://github.com/shashtag/shashtag/issues/new?title=ttt%7Cplay%7C4&body=Playing%20square%205.%20Please%20submit%20this%20issue%20to%20register%20your%20move.)</td>
-    <td align="center" width="60" height="60">[🟦](https://github.com/shashtag/shashtag/issues/new?title=ttt%7Cplay%7C5&body=Playing%20square%206.%20Please%20submit%20this%20issue%20to%20register%20your%20move.)</td>
+    <td align="center" width="60" height="60"><a href="https://github.com/shashtag/shashtag/issues/new?title=ttt%7Cplay%7C3&body=Playing%20square%204.%20Please%20submit%20this%20issue%20to%20register%20your%20move.">🟦</a></td>
+    <td align="center" width="60" height="60"><a href="https://github.com/shashtag/shashtag/issues/new?title=ttt%7Cplay%7C4&body=Playing%20square%205.%20Please%20submit%20this%20issue%20to%20register%20your%20move.">🟦</a></td>
+    <td align="center" width="60" height="60"><a href="https://github.com/shashtag/shashtag/issues/new?title=ttt%7Cplay%7C5&body=Playing%20square%206.%20Please%20submit%20this%20issue%20to%20register%20your%20move.">🟦</a></td>
   </tr>
   <tr>
-    <td align="center" width="60" height="60">[🟦](https://github.com/shashtag/shashtag/issues/new?title=ttt%7Cplay%7C6&body=Playing%20square%207.%20Please%20submit%20this%20issue%20to%20register%20your%20move.)</td>
-    <td align="center" width="60" height="60">[🟦](https://github.com/shashtag/shashtag/issues/new?title=ttt%7Cplay%7C7&body=Playing%20square%208.%20Please%20submit%20this%20issue%20to%20register%20your%20move.)</td>
-    <td align="center" width="60" height="60">[🟦](https://github.com/shashtag/shashtag/issues/new?title=ttt%7Cplay%7C8&body=Playing%20square%209.%20Please%20submit%20this%20issue%20to%20register%20your%20move.)</td>
+    <td align="center" width="60" height="60"><a href="https://github.com/shashtag/shashtag/issues/new?title=ttt%7Cplay%7C6&body=Playing%20square%207.%20Please%20submit%20this%20issue%20to%20register%20your%20move.">🟦</a></td>
+    <td align="center" width="60" height="60"><a href="https://github.com/shashtag/shashtag/issues/new?title=ttt%7Cplay%7C7&body=Playing%20square%208.%20Please%20submit%20this%20issue%20to%20register%20your%20move.">🟦</a></td>
+    <td align="center" width="60" height="60"><a href="https://github.com/shashtag/shashtag/issues/new?title=ttt%7Cplay%7C8&body=Playing%20square%209.%20Please%20submit%20this%20issue%20to%20register%20your%20move.">🟦</a></td>
   </tr>
 </table>
 
