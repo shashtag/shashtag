@@ -159,7 +159,7 @@ Japanese card-giving tradition inspired portfolio with smooth animations, micro-
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=shashtag&theme=nord&no-frame=true&margin-w=10&column=7" />
+<img src="https://github-trophies.vercel.app/?username=shashtag&theme=nord&no-frame=true&margin-w=10&column=7" />
 
 </div>
 
