@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Original Banner (with personality) -->
+<!-- Original Banner -->
 <img src="https://user-images.githubusercontent.com/48784001/203785020-2b4826c1-7ddb-4de8-b65b-ebf6e04c5290.jpeg" alt="Banner" width="100%" />
 
 <br/>
@@ -26,38 +26,22 @@
 
 ---
 
-## 🖥️ System Terminal
+# Hi There!
 
-```bash
-shashtag@terminal:~$ ./init_session
-Loading profile metadata... Done.
-Establishing connection to Bengaluru, India... Connected.
+I am a passionate Fullstack/Frontend web developer and a freelance software engineer from India. As an innocent child I wanted to make my own social media like Facebook which directed me to learn HTML, CSS and basic JS. I also wanted to make robots which lead me to learn basic C++.
 
-shashtag@terminal:~$ cat whoami.json
-```
-```json
-{
-  "name": "Shashwat Gupta",
-  "role": "Senior Software Engineer",
-  "focus": "Go, Distributed Systems, Real-Time Networking, and AI Integrations",
-  "current": "Forward Deployed Engineer @ realfast.ai",
-  "mission": "Architecting high-throughput, low-latency backends and highly responsive frontends."
-}
-```
+I learnt DSA in C++ properly in my 11th/12th grade and JS and React.js in my university first year from when I started working on project with organizations and also started freelancing.
 
-```bash
-shashtag@terminal:~$ ./run_experience_audit --verbose
-```
-> **Forward Deployed Engineer @ realfast.ai** (Mar 2026 – Present)
-> *   Enterprise AI strategy: Spearheading discovery phases for enterprise scale clients, designing optimized custom AI workflows.
-> 
-> **Advance Software Engineer @ Accenture (Comcast Engineering)** (Nov 2023 – Feb 2026)
-> *   Built high-efficiency Go CLI tooling reducing dev setup times from 1 day to 1 hour.
-> *   Delivered core frontend optimizations on Comcast Xfinity (serving 3M daily visits).
-> 
-> **Founding Engineer @ ProPro Productions (Germany)** (Jun 2021 – Sep 2023)
-> *   Architected collaborative infinite canvas platform with CRDT state synchronization.
-> *   Built robust rendering engine (QuadTrees, custom DOM transforms) leading to successful acquisition.
+Some of my notable freelancing gigs and group projects include E-commerce sites, Quiz portal, in uni second managing a startup's frontend team for people with 4 years of experience etc.
+
+Most of my professional work has been in Frontend and Fullstack for personal projects in the MERN stack. I have been interested in GoLang and after getting a 100% scholarship from Arden Labs to learn GoLang currently I am in process to master backend development using the course.
+
+- 🏢 **Forward Deployed Engineer** @ [realfast.ai](https://realfast.ai) — leading enterprise AI transformation
+- 🏗️ **Previously:** Advance Software Engineer @ **Accenture** (Comcast Engineering) — full-stack features for [xfinity.com](https://xfinity.com) serving **3M daily visits**
+- 🚀 **Founding Engineer** @ ProPro Productions (Germany) — built a **real-time collaborative whiteboard** using CRDTs → company **acquired**
+- 🎓 B.Tech CS @ **VIT Vellore** (2019–2023)
+- 💼 Any freelance work? do reach, [email](mailto:shashwatvg@gmail.com) :)
+- 💬 Ask me about anything, I am happy to help.
 
 ---
 
@@ -159,6 +143,20 @@ shashtag@terminal:~$ ./run_experience_audit --verbose
 <div align="center">
 
 <img src="https://github-trophies.vercel.app/?username=shashtag&theme=nord&no-frame=true&margin-w=10&column=7" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shashtag/shashtag/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shashtag/shashtag/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/shashtag/shashtag/output/github-snake-dark.svg" />
+</picture>
 
 </div>
 
