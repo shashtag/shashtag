@@ -114,14 +114,14 @@
 <div align="center">
 
 ### GitHub Streak
-<img src="https://streak-stats.demolab.com?user=shashtag&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+<img src="https://streak-stats.demolab.com?user=shashtag&theme=synthwave&hide_border=true&background=0D1117&ring=FE5555&fire=FE5555&currStreakLabel=FE5555" />
 
 ### Contribution Density
-<img src="https://github-readme-activity-graph.vercel.app/graph/?username=shashtag&bg_color=0D1117&color=58A6FF&line=F85D7F&point=FFFFFF&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph/?username=shashtag&bg_color=0D1117&color=FE5555&line=FE5555&point=FFFFFF&hide_border=true" width="100%" />
 
 ### Summary Stats
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shashtag&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashtag&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&hide=Jupyter%20Notebook" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shashtag&show_icons=true&include_all_commits=true&count_private=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FE5555&icon_color=FE5555&text_color=E2E8F0" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashtag&langs_count=8&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FE5555&icon_color=FE5555&text_color=E2E8F0&hide=Jupyter%20Notebook" />
 
 <br/>
 <b>Note:</b> Top languages is a metric of the languages in public repositories and does not fully reflect actual experience.
@@ -134,7 +134,7 @@
 
 <div align="center">
 
-<img src="https://github-trophies.vercel.app/?username=shashtag&theme=nord&no-frame=true&margin-w=10&column=7" />
+<img src="https://github-trophies.vercel.app/?username=shashtag&theme=synthwave&no-frame=true&margin-w=10&column=7" />
 
 </div>
 
@@ -152,7 +152,6 @@
 
 </div>
 
----
 
 <div align="center">
 
