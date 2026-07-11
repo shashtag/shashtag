@@ -65,22 +65,22 @@ shashtag@terminal:~$ ./run_experience_audit --verbose
 
 <div align="center">
 
-**Languages**
+<h4>Languages</h4>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=go,ts,js,python,rust,c,bash&theme=dark" /></a>
 
-**Backend & Databases**
+<h4>Backend & Databases</h4>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kafka,redis,postgres,mongodb,graphql,rabbitmq,elasticsearch&theme=dark" /></a>
 
-**Frontend & Mobile**
+<h4>Frontend & Mobile</h4>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,solidjs,tailwind,html,css,vite&theme=dark" /></a>
 
-**DevOps & Infrastructure**
+<h4>DevOps & Infrastructure</h4>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker,terraform,githubactions,nginx&theme=dark" /></a>
 
-**AI & Systems**
+<h4>AI & Systems</h4>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" /></a>
-<br/>
-`LangChain` • `RAG Architecture` • `HuggingFace` • `Ollama` • `Model Fine-tuning`
+<br/><br/>
+<code>LangChain</code> • <code>RAG Architecture</code> • <code>HuggingFace</code> • <code>Ollama</code> • <code>Model Fine-tuning</code>
 
 </div>
 
@@ -88,23 +88,48 @@ shashtag@terminal:~$ ./run_experience_audit --verbose
 
 ## 🔥 Featured Work
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://karada.ai">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shashtag&repo=karada&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/shashtag/nifty-graphs">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shashtag&repo=nifty-graphs&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-</a>
+### 🧠 [karada.ai](https://karada.ai)
+**Personal AI & Health Platform**
+*   Go backend, distributed architecture, real-time data pipelines.
+*   Full-stack system built completely from scratch.
+*   *Stack:* `Go` • `React` • `PostgreSQL` • `Redis` • `Docker`
 
-<a href="https://github.com/shashtag-ventures/go-common">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shashtag-ventures&repo=go-common&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/shashtag/shashtag.site">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shashtag&repo=shashtag.site&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-</a>
+</td>
+<td width="50%" valign="top">
 
-</div>
+### 📈 [nifty-graphs](https://github.com/shashtag/nifty-graphs)
+**Real-Time Market Data Visualization**
+*   Live trading charts with TradingView integration.
+*   WebSocket data feeds and responsive dashboards.
+*   *Stack:* `TypeScript` • `React` • `Go` • `WebSockets` • `TradingView`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📦 [go-common](https://github.com/shashtag-ventures/go-common)
+**Shared Go Library**
+*   Reusable Go packages powering multiple microservices.
+*   Standardized logging, middleware, and database helpers.
+*   *Stack:* `Go` • `Microservices` • `Shared Libraries`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 [shashtag.site](https://github.com/shashtag/shashtag.site)
+**Personal Portfolio**
+*   Japanese card-giving tradition inspired interactive site.
+*   Smooth page transitions, micro-animations, and responsive design.
+*   *Stack:* `JavaScript` • `HTML/CSS` • `Animations`
+
+</td>
+</tr>
+</table>
 
 ---
 
